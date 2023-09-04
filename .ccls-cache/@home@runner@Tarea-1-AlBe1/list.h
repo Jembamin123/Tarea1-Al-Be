@@ -1,5 +1,5 @@
-#ifndef List_h
-#define List_h
+#ifndef list_h
+#define list_h
 
 typedef struct List List;
 
